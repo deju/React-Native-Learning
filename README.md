@@ -9,11 +9,12 @@ React Native快接近一年了，目前很多公司也开始尝试在项目中�
 # 目录
 * [文档](#文档)
 * [图书](#图书)
- * [React Native](#react-native)
- * [React.js](#reactjs)
- * [ES6](#es6)
- * [系列教程](#系列教程)
+* [React Native](#react-native)
+* [React.js](#reactjs)
+* [ES6](#es6)
+* [系列教程](#系列教程)
 * [开源APP](#开源app)
+* [已上线app](#已上线app)
 * [组件](#组件)
 * [工具](#工具)
 * [资源网站](#资源网站)
@@ -64,7 +65,7 @@ React Native快接近一年了，目前很多公司也开始尝试在项目中�
 
 
 
-### 图书
+## 图书
 
 - React Native入门与实践
 	http://www.ituring.com.cn/book/1762
@@ -74,7 +75,7 @@ React Native快接近一年了，目前很多公司也开始尝试在项目中�
 
 
 
-### React Native
+## React Native
 
 * **React-Native入门指南**
 	
@@ -144,7 +145,7 @@ http://www.liaohuqiu.net/cn/posts/react-native-1/
 * React Native: Android 的打包
 http://www.liaohuqiu.net/cn/posts/react-native-android-package/
 
-### React.js
+## React.js
 
 * react.js中文文档
 http://reactjs.cn/
@@ -158,7 +159,7 @@ http://www.ruanyifeng.com/blog/2015/03/react.html
 * react.js视频教程
 http://react.nodejs-china.org/t/reactjs/584
 
-### ES6
+## ES6
 
 * 深入浅出ES6（一）：ES6是什么
 http://www.infoq.com/cn/articles/es6-in-depth-an-introduction
@@ -175,7 +176,7 @@ http://www.infoq.com/cn/articles/es6-in-depth-template-string
 * 深入浅出ES6（五）：不定参数和默认参数
 http://www.infoq.com/cn/articles/es6-in-depth-rest-parameters-and-defaults
 
-### 系列教程
+## 系列教程
 
 * 深入浅出React（一）：React的设计哲学 - 简单之美
 http://www.infoq.com/cn/articles/react-art-of-simplity
@@ -219,7 +220,7 @@ http://www.alloyteam.com/2015/10/react-native-android-steps-on-tour/
 * React Native 之 JSBridge
 http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/
 
-### React Native探索系列教程
+## React Native探索系列教程
 
 * React Native探索（一）：背景、规划和风险
 http://www.infoq.com/cn/articles/react-native-overview
@@ -350,6 +351,34 @@ https://github.com/benoitvallon/react-native-nw-react-calculator
 * react-native-nba-app
 https://github.com/wwayne/react-native-nba-app
 
+
+
+
+## 已上线app
+* facebook groups    
+	https://itunes.apple.com/us/app/facebook-groups/id931735837?mt=8
+* facebook ads manage    
+	https://itunes.apple.com/us/app/facebook-ads-manager/id964397083?mt=8
+* Discord    
+	https://itunes.apple.com/us/app/discord-chat-for-gamers/id985746746?mt=8
+* React Native Playground    
+	https://itunes.apple.com/us/app/react-native-playground/id1002032944?mt=8
+* Tucci    
+	https://itunes.apple.com/app/apple-store/id1039661754?mt=8
+* Townske   
+	https://itunes.apple.com/us/app/townske-stunning-city-guides/id1018136179?ls=1&mt=8
+* Squad    
+	https://itunes.apple.com/us/app/squad-snaps-for-groups-friends/id1043626975?mt=8
+* Runing    
+	https://gyrosco.pe/running/
+* Lrn    
+	https://itunes.apple.com/us/app/lrn-learn-to-code-at-your/id1019622677
+* Exponent    
+	http://exponentjs.com/
+
+所有的showcase: https://facebook.github.io/react-native/showcase.html
+
+
 ## 组件
 
 * **React-native组件库**（比较全的组件库）
@@ -381,6 +410,26 @@ https://github.com/jsdf/react-native-htmlview
 
 * **Material React Native (MRN)** - Material Design组件库
 https://github.com/binggg/mrn
+
+* 震动    
+	https://www.npmjs.com/package/react-native-vibration
+
+* 拍照    
+	https://github.com/lwansbrough/react-native-camera
+* tabview    
+	https://github.com/brentvatne/react-native-scrollable-tab-view
+* camera-roll    
+	https://github.com/bamlab/rn-camera-roll
+* tabbar    
+	https://github.com/alinz/react-native-tabbar
+* 代码更新    
+	https://github.com/Microsoft/react-native-code-push
+* sqlite    
+	https://github.com/andpor/react-native-sqlite-storage
+	
+* checkbox		
+	https://www.npmjs.com/package/react-native-checkbox
+	
 
 ## 工具
 
