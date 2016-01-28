@@ -80,6 +80,7 @@ React Native快接近一年了，目前很多公司也开始尝试在项目中�
 * **React-Native入门指南**
 	
 	https://github.com/vczero/react-native-lession
+    携程高级工程师王利华，参与翻译书《React Native入门与实战》这本书
 
 * **React-Native视频教程(部分免费)**
 https://egghead.io/technologies/react
