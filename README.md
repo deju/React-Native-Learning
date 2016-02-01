@@ -434,6 +434,9 @@ https://github.com/binggg/mrn
 * gl-react-native (react-native版OpenGL)   
 	https://github.com/ProjectSeptemberInc/gl-react-native
 
+* mapview    
+  https://github.com/lelandrichardson/react-native-maps
+
 ## 工具
 
 * react-native-snippets(代码提示)
