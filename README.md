@@ -355,7 +355,7 @@ https://github.com/wwayne/react-native-nba-app
 
 
 
-## 已上线app
+## 已上线app(官方demo)
 * facebook groups    
 	https://itunes.apple.com/us/app/facebook-groups/id931735837?mt=8
 * facebook ads manage    
@@ -423,7 +423,7 @@ https://github.com/binggg/mrn
 	https://github.com/bamlab/rn-camera-roll
 * tabbar    
 	https://github.com/alinz/react-native-tabbar
-* 代码更新    
+* 代码更新（应用内更新）    
 	https://github.com/Microsoft/react-native-code-push
 * sqlite    
 	https://github.com/andpor/react-native-sqlite-storage
@@ -431,6 +431,8 @@ https://github.com/binggg/mrn
 * checkbox		
 	https://www.npmjs.com/package/react-native-checkbox
 	
+* gl-react-native (react-native版OpenGL)   
+	https://github.com/ProjectSeptemberInc/gl-react-native
 
 ## 工具
 
@@ -448,6 +450,13 @@ https://github.com/soliury/gulp-react-native-css
 
 * rnpm(React Native Package Manager)
 https://github.com/rnpm/rnpm
+
+* Nuclide (基于Atom的IDE)
+http://nuclide.io/ 
+
+* React Native Desktop(开发OS X桌面应用)
+https://github.com/ptmt/react-native-desktop
+	
 
 ## 资源网站
 
