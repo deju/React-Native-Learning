@@ -361,8 +361,9 @@ https://github.com/wwayne/react-native-nba-app
 * p图    
 http://52ptu.com/
 
-
-
+* 知乎日报开源版    
+https://github.com/race604/ZhiHuDaily-React-Native
+作者介绍(http://www.race604.com/react-native-android-practice/)
 
 
 ## 已上线app(官方demo)
@@ -421,6 +422,12 @@ https://github.com/jsdf/react-native-htmlview
 
 * **Material React Native (MRN)** - Material Design组件库
 https://github.com/binggg/mrn
+
+* **Material Design** 
+https://github.com/xinthink/react-native-material-kit
+
+* **MaterialKit**
+https://github.com/nghialv/MaterialKit
 
 * 震动    
 	https://www.npmjs.com/package/react-native-vibration
