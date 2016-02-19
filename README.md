@@ -388,6 +388,10 @@ https://github.com/race604/ZhiHuDaily-React-Native
 * Exponent    
 	http://exponentjs.com/
 
+* reactnativecn cases    
+    如鱼多多，墨刀，同行网，约约，篝火，烘焙帮，p图社区，你造么, 囚徒健身
+    http://reactnative.cn/cases.html
+
 所有的showcase: https://facebook.github.io/react-native/showcase.html
 
 
